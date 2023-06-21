@@ -1,14 +1,11 @@
 {
-  "name": "specmatic-kafka",
+  "name": "specmatic-beta",
   "version": "1.0.0",
-  "description": "Specmatic Kafka Core Distribution Package",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
+  "description": "Specmatic Beta Distribution Package",
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/znsio/specmatic-kafka/npm"
+    "url": "https://github.com/znsio/specmatic-node-beta"
   },
   "keywords": [
     "specmatic",
