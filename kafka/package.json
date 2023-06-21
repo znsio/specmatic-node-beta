@@ -1,0 +1,19 @@
+{
+  "name": "specmatic-kafka",
+  "version": "1.0.0",
+  "description": "Specmatic Kafka Core Distribution Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/znsio/specmatic-kafka/npm"
+  },
+  "keywords": [
+    "specmatic",
+    "kafka"
+  ],
+  "author": "Specmatic",
+  "license": "ISC"
+}
